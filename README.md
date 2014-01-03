@@ -1,0 +1,1 @@
+This is just a back up of a Minecraft server that I run for my friends.
