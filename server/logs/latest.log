@@ -1,9 +1,20 @@
-[17:40:02] [Server thread/INFO]: Starting minecraft server version 1.7.4
-[17:40:02] [Server thread/INFO]: Loading properties
-[17:40:02] [Server thread/INFO]: Default game type: SURVIVAL
-[17:40:02] [Server thread/INFO]: Generating keypair
-[17:40:03] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:40:03] [Server thread/INFO]: Preparing level "tuborg"
-[17:40:03] [Server thread/INFO]: Preparing start region for level 0
-[17:40:04] [Server thread/INFO]: Done (0.962s)! For help, type "help" or "?"
-[17:45:51] [Server Shutdown Thread/INFO]: Stopping server
+[00:02:12] [Server thread/INFO]: <ndrwhr> How is the new computer with minecraft?
+[00:02:20] [Server thread/INFO]: <DarthAwesomous1> awesome!
+[00:02:44] [Server thread/INFO]: <DarthAwesomous1> seriously, thanks again. It really wasn't necessary.
+[00:09:28] [Server thread/INFO]: <ndrwhr> haha of course. Hopefully learning mac osx hasn't been too difficult
+[00:09:44] [Server thread/INFO]: <DarthAwesomous1> no, it's pretty straightforward so far
+[00:10:12] [Server thread/INFO]: <DarthAwesomous1> also, this easily has to be one of the most retarded things I've done in this game
+[00:13:58] [Server thread/INFO]: <ndrwhr> lol
+[00:14:17] [Server thread/INFO]: <ndrwhr> It's pretty sweet looking
+[00:14:46] [Server thread/INFO]: <ndrwhr> We now have 4 furnaces btw
+[00:15:09] [Server thread/INFO]: <ndrwhr> Coal has be loaded in the rear hoppers downstairs, things to be "cooked" should be loaded from above
+[00:16:31] [Server thread/INFO]: <DarthAwesomous1> ok
+[00:17:02] [Server thread/INFO]: <DarthAwesomous1> and on that note, I shoudl go to bed. We are going to allisa's parents tomorrow morning
+[00:17:11] [Server thread/INFO]: <ndrwhr> Yeah I should too
+[00:17:21] [Server thread/INFO]: <ndrwhr> I was just going to put away my stuff
+[00:18:15] [Server thread/INFO]: <ndrwhr> Alright. I'm off
+[00:18:18] [Server thread/INFO]: <DarthAwesomous1> ok, later
+[00:18:29] [Server thread/INFO]: ndrwhr lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[00:18:29] [Server thread/INFO]: ndrwhr left the game
+[00:18:33] [Server thread/INFO]: DarthAwesomous1 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[00:18:33] [Server thread/INFO]: DarthAwesomous1 left the game
