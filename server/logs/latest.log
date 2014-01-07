@@ -1,2 +1,14 @@
-[17:37:51] [Server Shutdown Thread/INFO]: Stopping server
-[17:37:51] [Server Shutdown Thread/INFO]: Saving players
+[18:53:45] [Server thread/INFO]: Starting minecraft server version 1.7.4
+[18:53:45] [Server thread/INFO]: Loading properties
+[18:53:45] [Server thread/INFO]: Default game type: SURVIVAL
+[18:53:45] [Server thread/INFO]: Generating keypair
+[18:53:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:53:46] [Server thread/INFO]: Preparing level "tuborg"
+[18:53:46] [Server thread/INFO]: Preparing start region for level 0
+[18:53:47] [Server thread/INFO]: Preparing spawn area: 81%
+[18:53:47] [Server thread/INFO]: Done (1.244s)! For help, type "help" or "?"
+[21:30:06] [User Authenticator #1/INFO]: UUID of player Honest_Dave is a04af51030c549a1bec6e40d88739c4f
+[21:30:06] [Server thread/INFO]: Honest_Dave[/198.245.116.158:63202] logged in with entity id 242 at (-42.45751939213266, 70.0, 72.70879653651856)
+[21:30:06] [Server thread/INFO]: Honest_Dave joined the game
+[21:45:02] [Server thread/INFO]: Honest_Dave lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[21:45:02] [Server thread/INFO]: Honest_Dave left the game
