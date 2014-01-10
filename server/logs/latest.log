@@ -1,51 +1,59 @@
-[09:02:09] [Server thread/INFO]: Starting minecraft server version 1.7.4
-[09:02:09] [Server thread/INFO]: Loading properties
-[09:02:09] [Server thread/INFO]: Default game type: SURVIVAL
-[09:02:09] [Server thread/INFO]: Generating keypair
-[09:02:09] [Server thread/INFO]: Starting Minecraft server on *:25565
-[09:02:09] [Server thread/INFO]: Preparing level "tuborg"
-[09:02:09] [Server thread/INFO]: Preparing start region for level 0
-[09:02:10] [Server thread/INFO]: Preparing spawn area: 75%
-[09:02:10] [Server thread/INFO]: Done (1.304s)! For help, type "help" or "?"
-[18:07:51] [User Authenticator #1/INFO]: UUID of player ndrwhr is 09c4957cf970415cbd47e2c27c8c2812
-[18:07:51] [Server thread/INFO]: ndrwhr[/24.7.59.135:43405] logged in with entity id 166 at (-47.14861842137228, 70.5625, 69.30000001192093)
-[18:07:51] [Server thread/INFO]: ndrwhr joined the game
-[18:07:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2099ms behind, skipping 41 tick(s)
-[18:07:59] [Server thread/INFO]: ndrwhr lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[18:07:59] [Server thread/INFO]: ndrwhr left the game
-[18:08:03] [User Authenticator #2/INFO]: UUID of player ndrwhr is 09c4957cf970415cbd47e2c27c8c2812
-[18:08:03] [Server thread/INFO]: ndrwhr[/24.7.59.135:33868] logged in with entity id 621 at (-49.37081256281796, 70.0, 69.30000001192093)
-[18:08:03] [Server thread/INFO]: ndrwhr joined the game
-[18:08:46] [Server thread/INFO]: --- Showing help page 1 of 7 (/help <page>) ---
-[18:08:46] [Server thread/INFO]: /achievement give <stat_name> [player]
-[18:08:46] [Server thread/INFO]: /ban <name> [reason ...]
-[18:08:46] [Server thread/INFO]: /ban-ip <address|name> [reason ...]
-[18:08:46] [Server thread/INFO]: /banlist [ips|players]
-[18:08:46] [Server thread/INFO]: /clear <player> [item] [data]
-[18:08:46] [Server thread/INFO]: /debug <start|stop>
-[18:08:46] [Server thread/INFO]: /defaultgamemode <mode>
-[18:09:00] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[18:09:02] [Server thread/INFO]: Usage: /give <player> <item> [amount] [data] [dataTag]
-[18:10:50] [Server thread/INFO]: There is no such item with ID "Diamond
-[18:11:21] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[18:11:28] [Server thread/INFO]: Warning: Using numeric IDs will not be supported in the future. Please use names, such as 'minecraft:diamond_pickaxe'
-[18:11:28] [Server thread/INFO]: Given [Diamond Pickaxe] * 1 to ndrwhr
-[18:12:25] [Server thread/INFO]: ndrwhr lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[18:12:25] [Server thread/INFO]: ndrwhr left the game
-[18:13:10] [User Authenticator #3/INFO]: UUID of player ndrwhr is 09c4957cf970415cbd47e2c27c8c2812
-[18:13:10] [Server thread/INFO]: ndrwhr[/24.7.59.135:45367] logged in with entity id 5289 at (-41.882487872264264, 70.0, 79.60940134021942)
-[18:13:10] [Server thread/INFO]: ndrwhr joined the game
-[18:59:37] [Server thread/INFO]: Given [Stone] * 64 to ndrwhr
-[19:08:02] [Server thread/INFO]: ndrwhr lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[19:08:02] [Server thread/INFO]: ndrwhr left the game
-[20:27:56] [User Authenticator #4/INFO]: UUID of player ndrwhr is 09c4957cf970415cbd47e2c27c8c2812
-[20:27:56] [Server thread/INFO]: ndrwhr[/24.7.59.135:48361] logged in with entity id 73799 at (-48.5, 70.0, 69.5)
-[20:27:56] [Server thread/INFO]: ndrwhr joined the game
-[20:42:08] [Server thread/INFO]: Given [Torch] * 64 to ndrwhr
-[21:00:53] [Server thread/INFO]: Given [Rail] * 64 to ndrwhr
-[21:01:55] [Server thread/INFO]: That player cannot be found
-[21:02:07] [Server thread/INFO]: Given [Rail] * 64 to ndrwhr
-[21:03:41] [Server thread/INFO]: Given [Minecart] * 2 to ndrwhr
-[21:15:31] [Server thread/INFO]: ndrwhr lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[21:15:31] [Server thread/INFO]: ndrwhr left the game
-[21:15:35] [Server Shutdown Thread/INFO]: Stopping server
+[18:24:07] [User Authenticator #1/INFO]: UUID of player ndrwhr is 09c4957cf970415cbd47e2c27c8c2812
+[18:24:07] [Server thread/INFO]: ndrwhr[/24.7.59.135:34900] logged in with entity id 150 at (-47.082740346281824, 70.5625, 69.30000001192093)
+[18:24:07] [Server thread/INFO]: ndrwhr joined the game
+[18:24:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2030ms behind, skipping 40 tick(s)
+[18:44:16] [User Authenticator #2/INFO]: UUID of player DarthAwesomous1 is 7a1f1547096d4de3a6dd6efd5008bd65
+[18:44:16] [Server thread/INFO]: DarthAwesomous1[/96.53.214.194:49200] logged in with entity id 24382 at (164.4998254533826, 44.0, -667.0157753715431)
+[18:44:16] [Server thread/INFO]: DarthAwesomous1 joined the game
+[18:44:32] [Server thread/INFO]: <ndrwhr> You should come out to the grey havens
+[18:44:47] [Server thread/INFO]: <DarthAwesomous1> I'm still stuck underground, remember?
+[18:45:26] [Server thread/INFO]: <ndrwhr> Oh right. If you go that waterfall in one of the tunnels you should be able to swim up
+[18:45:33] [Server thread/INFO]: <ndrwhr> then use your map to get back
+[18:48:13] [Server thread/INFO]: <ndrwhr> Do you need anything?
+[18:49:14] [Server thread/INFO]: <DarthAwesomous1> no, i don't think so
+[18:53:43] [Server thread/INFO]: <DarthAwesomous1> I'm going to spend the night in the desert town
+[18:58:21] [Server thread/INFO]: <ndrwhr> okie dokie
+[18:58:41] [Server thread/INFO]: <ndrwhr> if you get to the edge of the desert and see a giant stone penis you should go down the hole near it
+[18:58:54] [Server thread/INFO]: <DarthAwesomous1> why?
+[18:59:47] [Server thread/INFO]: <ndrwhr> you'll see
+[19:02:59] [Server thread/INFO]: DarthAwesomous1 was slain by Spider
+[19:04:59] [Server thread/INFO]: <DarthAwesomous1> fuuuuuuck!
+[19:05:39] [Server thread/INFO]: <ndrwhr> where are you going?
+[19:05:45] [Server thread/INFO]: <DarthAwesomous1> to pick up my shit
+[19:06:14] [Server thread/INFO]: <ndrwhr> weren't you at the desert?
+[19:06:33] [Server thread/INFO]: <DarthAwesomous1> shit, which way is the desert?
+[19:06:40] [Server thread/INFO]: <DarthAwesomous1> north of the base?
+[19:06:40] [Server thread/INFO]: <ndrwhr> I think the other way
+[19:06:56] [Server thread/INFO]: <DarthAwesomous1> can you head there and try and get my stuff?
+[19:08:35] [Server thread/INFO]: <ndrwhr> Come with me, I have mine carts
+[19:09:06] [Server thread/INFO]: <ndrwhr> I left you one in the box
+[19:09:12] [Server thread/INFO]: <ndrwhr> and a sword
+[19:09:21] [Server thread/INFO]: <ndrwhr> shit
+[19:11:14] [Server thread/INFO]: DarthAwesomous1 was slain by Zombie
+[19:11:16] [Server thread/INFO]: <ndrwhr> I've got to hop off for some dinner
+[19:11:18] [Server thread/INFO]: ndrwhr lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[19:11:18] [Server thread/INFO]: ndrwhr left the game
+[20:11:32] [Server thread/INFO]: DarthAwesomous1 has just earned the achievement [DIAMONDS!]
+[20:15:24] [User Authenticator #3/INFO]: UUID of player ndrwhr is 09c4957cf970415cbd47e2c27c8c2812
+[20:15:24] [Server thread/INFO]: ndrwhr[/24.7.59.135:39377] logged in with entity id 185245 at (-74.76249998807907, 42.0, -147.69999998807907)
+[20:15:24] [Server thread/INFO]: ndrwhr joined the game
+[20:15:33] [Server thread/INFO]: <DarthAwesomous1> I just found 4 more diamonds
+[20:19:53] [Server thread/INFO]: <ndrwhr> Which mine are you in?
+[20:20:13] [Server thread/INFO]: <DarthAwesomous1> i dug down from my underwater base
+[20:21:23] [Server thread/INFO]: <ndrwhr> Yeah I made myself a diamond pick axe and enchanted it
+[20:21:28] [Server thread/INFO]: <ndrwhr> It's pretty sweet
+[20:22:40] [Server thread/INFO]: <DarthAwesomous1> I hope you lose that
+[20:22:44] [Server thread/INFO]: <DarthAwesomous1> showoff
+[20:24:39] [Server thread/INFO]: <ndrwhr> It has unbreakable and efficency so it doesn't wear down very much either
+[20:26:18] [Server thread/INFO]: <ndrwhr> Here I have an enchanted iron pic axe
+[20:29:00] [Server thread/INFO]: <ndrwhr> I hear lava bubbling
+[20:31:14] [Server thread/INFO]: <DarthAwesomous1> ha ha, it's disappointing how far we've come
+[20:32:18] [Server thread/INFO]: <ndrwhr> I hear lava again
+[20:33:26] [Server thread/INFO]: <DarthAwesomous1> ok, well i'm going to bed right away. I'll just stay down here. Hopefully nothing spawns
+[20:33:55] [Server thread/INFO]: <ndrwhr> okie dokie
+[20:34:03] [Server thread/INFO]: <ndrwhr> I'm going to run all this back to base
+[20:34:11] [Server thread/INFO]: <DarthAwesomous1> ok, take the diamonds
+[20:34:33] [Server thread/INFO]: DarthAwesomous1 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:34:33] [Server thread/INFO]: DarthAwesomous1 left the game
+[20:42:51] [Server thread/INFO]: ndrwhr lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:42:51] [Server thread/INFO]: ndrwhr left the game
