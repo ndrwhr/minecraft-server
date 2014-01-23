@@ -1,12 +1,6 @@
-[09:07:45] [User Authenticator #13/INFO]: UUID of player ndrwhr is 09c4957cf970415cbd47e2c27c8c2812
-[09:07:45] [Server thread/INFO]: ndrwhr[/24.7.59.135:33296] logged in with entity id 986644 at (-41.33958430426727, 101.0, 72.90288132915784)
-[09:07:45] [Server thread/INFO]: ndrwhr joined the game
-[09:13:03] [Server thread/INFO]: ndrwhr lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[09:13:03] [Server thread/INFO]: ndrwhr left the game
-[12:35:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6471062ms behind, skipping 129421 tick(s)
-[12:35:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10597ms behind, skipping 211 tick(s)
-[14:24:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6487967ms behind, skipping 129759 tick(s)
-[16:13:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6474876ms behind, skipping 129497 tick(s)
-[18:02:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6473966ms behind, skipping 129479 tick(s)
-[18:24:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 1283936ms behind, skipping 25678 tick(s)
-[18:24:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10518ms behind, skipping 210 tick(s)
+[19:33:07] [User Authenticator #17/INFO]: UUID of player ndrwhr is 09c4957cf970415cbd47e2c27c8c2812
+[19:33:07] [Server thread/INFO]: ndrwhr[/24.7.59.135:47204] logged in with entity id 1739365 at (-51.5, 70.0, 69.5)
+[19:33:07] [Server thread/INFO]: ndrwhr joined the game
+[20:03:48] [Server thread/INFO]: ndrwhr lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:03:48] [Server thread/INFO]: ndrwhr left the game
+[20:13:18] [Server Shutdown Thread/INFO]: Stopping server
