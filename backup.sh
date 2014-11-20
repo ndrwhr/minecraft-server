@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd ~/dev/minecraft
+cd ~/dev/minecraft-server
 
 if ! git diff-index --quiet HEAD --; then
     git add . &&
